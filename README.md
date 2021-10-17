@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Edmilson Santos - @Edmilson1Clss
 
 <div align="center">
-  <a href="https://github.com/Edmilson1Clss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edmilson1Clss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edmilson1Clss&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ClssEdmilson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClssEdmilson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClssEdmilson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
