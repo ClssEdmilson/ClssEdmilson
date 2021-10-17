@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edmilson Santos - @Edmilson1Clss
+- 👋 Hi, I’m Edmilson Santos - @ClssEdmilson
 
 <div align="center">
   <a href="https://github.com/ClssEdmilson">
