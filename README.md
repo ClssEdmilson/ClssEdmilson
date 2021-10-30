@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Edmilson Santos - @ClssEdmilson
 - I'm a Electronic Engineer!
 
+ - RTL engineering | IP and SoC verification (UVM and SVA)
+ - Embedded Software Development
+ - Hardware design
+
 <div>
   <a href="https://github.com/ClssEdmilson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClssEdmilson&layout=compact&langs_count=7&theme=dark"/>
